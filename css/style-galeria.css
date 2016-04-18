@@ -189,8 +189,8 @@ nav> ul> li> a:hover >span{
 
 section{
 	width: 700px;
-	background: white;
-	height: 1000px;	
+	background-image: url(../img/contenido.jpg);
+	height: 900px;	
 	float: left;
 	margin-top: 20px;
 	border-radius: 10px;
